@@ -12,9 +12,9 @@
   "events": [
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/tai-va-10.webp",
         "caption": "Tai vạ thứ 10: Con đầu lòng bị giết",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "01",
@@ -29,7 +29,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Dời hài cốt Giô-sép khỏi Ai-cập",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "01",
@@ -42,9 +42,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/red-sea.webp",
         "caption": "Vượt qua Biển Đỏ",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "02",
@@ -57,9 +57,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/pharaon-bi-nhan-chim.webp",
         "caption": "Người Ai-cập đuổi theo và bị nhấn chìm",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "02",
@@ -72,9 +72,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/nuoc-dang-ma-ra.webp",
         "caption": "Nước đắng tại Ma-ra",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "03",
@@ -89,7 +89,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "12 suối nước và 70 cây chà là",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "04",
@@ -102,9 +102,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/ma-na.webp",
         "caption": "Chúa ban chim cút và ma-na",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "04",
@@ -117,9 +117,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/nuoc-tu-da-horep.webp",
         "caption": "Nước từ hòn đá Hô-rếp",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "05",
@@ -132,9 +132,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/thang-dan-amalec.webp",
         "caption": "Thắng trận dân A-ma-léc, tay của Môi-se giơ lên",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "05",
@@ -147,9 +147,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/10-dieu-ran.webp",
         "caption": "Chúa ban 10 điều răn và luật pháp",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "06",
@@ -162,9 +162,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/con-bo-vang.webp",
         "caption": "Con bò vàng, Môi-se liệng bể bản luật pháp",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "06",
@@ -177,9 +177,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/den-tam.webp",
         "caption": "Đền tạm",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "06",
@@ -194,7 +194,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Mưa chim cút",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "07",
@@ -209,7 +209,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Mi-ri-am và A-rôn nói hành Môi-se",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "08",
@@ -224,7 +224,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "12 thám tử do thám xư Ca-na-an",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "09",
@@ -239,7 +239,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Dân sự bị dân A-ma-léc đánh bại",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "09",
@@ -254,7 +254,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Sự nổi loạn của đảng Cô-rê",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "09",
@@ -269,7 +269,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Môi-se đập vào hòn đá",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "09",
@@ -284,7 +284,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "A-rôn qua đời tại núi Hô-rơ",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "10",
@@ -297,9 +297,9 @@
     },
     {
       "media": {
-        "url": "/img/b2admin.png",
+        "url": "/img/con-ran-lua.webp",
         "caption": "Con rắn lửa và con rắn đồng",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "11",
@@ -314,7 +314,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Chiến thắng dân A-mô-rít",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "12",
@@ -329,7 +329,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Ba-lác và Ba-la-am",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "month": "12",
@@ -344,7 +344,7 @@
       "media": {
         "url": "/img/b2admin.png",
         "caption": "Môi-se qua đời",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+        "credit": "FreeBibleimages"
       },
       "start_date": {
         "day": "31",
