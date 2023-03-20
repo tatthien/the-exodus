@@ -1,668 +1,359 @@
 {
   "title": {
     "media": {
-      "url": "/img/the-story-of-wordpress.jpg",
-      "caption": "The Story of WordPress.",
-      "credit": "Background: <a href='https://unsplash.com/photos/mk7D-4UCfmg'>https://unsplash.com/photos/mk7D-4UCfmg</a>"
+      "url": "/img/the-exodus.webp",
+      "caption": "Hành trình xuất Ai-cập"
     },
     "text": {
-      "headline": "The Story of WordPress<br/> 2001 - 2020",
-      "text": "<p>WordPress was born out of a desire for an elegant, well-architectured personal publishing system built on PHP and MySQL and licensed under the GPL. It is the official successor of b2/cafelog. WordPress is modern software, but its roots and development go back to 2001.</p>"
+      "headline": "Hành Trình Xuất Ai-cập",
+      "text": "<p>Những sự kiện nổi bật cùng với địa điểm trong cuộc hành trình của dâng Y-sơ-ra-ên từ khi ra khỏi Ai-cập đến khi Môi-se qua đời tại núi Nê-bô</p>"
     }
   },
   "events": [
     {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Tai vạ thứ 10: Con đầu lòng bị giết",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
       "start_date": {
-        "year": "2001"
+        "month": "01",
+        "year": "0"
       },
       "text": {
-        "headline": "Movable Type launched",
-        "text": "<p>Movable Type is a blogging platform.</p>"
+        "headline": "Tai vạ thứ 10: Con đầu lòng bị giết",
+        "text": "<p><ul><li>📍 Địa điểm: Ram-se</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/12?v=VI1934#22' target='_blank'>Xuất 12:22</a></li><li>💡 Nội dung: Tai vạ cuối cùng trên đất Ai-cập, Chúa phán dạy dân Y-sơ-ra-ên phải lấy một chùm kinh giới nhúng vào huyết rồi bôi lên mày và hai cây cột cửa.</li></p>"
       }
     },
     {
       "media": {
         "url": "/img/b2admin.png",
-        "caption": "The b2 use interface",
+        "caption": "Dời hài cốt Giô-sép khỏi Ai-cập",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "01",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Dời hài cốt Giô-sép khỏi Ai-cập",
+        "text": "<p><ul><li>📍 Địa điểm: Ram-se</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/13?v=VI1934#19' target='_blank'>Xuất 13:19</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Vượt qua Biển Đỏ",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "02",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Vượt qua Biển Đỏ",
+        "text": "<p><ul><li>📍 Địa điểm: Su-cốt</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/14?v=VI1934#22' target='_blank'>Xuất 14:22</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Người Ai-cập đuổi theo và bị nhấn chìm",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "02",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Người Ai-cập đuổi theo và bị nhấn chìm",
+        "text": "<p><ul><li>📍 Địa điểm: Su-cốt</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/14?v=VI1934#23' target='_blank'>Xuất 14:23</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Nước đắng tại Ma-ra",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "03",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Nước đắng tại Ma-ra",
+        "text": "<p><ul><li>📍 Địa điểm: Ma-ra</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/15?v=VI1934#23' target='_blank'>Xuất 15:23-25</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "12 suối nước và 70 cây chà là",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "04",
+        "year": "0"
+      },
+      "text": {
+        "headline": "12 suối nước và 70 cây chà là",
+        "text": "<p><ul><li>📍 Địa điểm: Ê-lim</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/15?v=VI1934#27' target='_blank'>Xuất 15:27</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Chúa ban chim cút và ma-na",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "04",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Chúa ban chim cút và ma-na",
+        "text": "<p><ul><li>📍 Địa điểm: Ê-lim</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/16?v=VI1934#13' target='_blank'>Xuất 16:13-18</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Nước từ hòn đá Hô-rếp",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "05",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Nước từ hòn đá Hô-rếp",
+        "text": "<p><ul><li>📍 Địa điểm: Rê-phi-đim</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/17?v=VI1934#6' target='_blank'>Xuất 17:6</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Thắng trận dân A-ma-léc, tay của Môi-se giơ lên",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "05",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Thắng trận dân A-ma-léc, tay của Môi-se giơ lên",
+        "text": "<p><ul><li>📍 Địa điểm: Rê-phi-đim</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/17?v=VI1934#11' target='_blank'>Xuất 17:11-13</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Chúa ban 10 điều răn và luật pháp",
         "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
         "month": "06",
-        "year": "2001"
+        "year": "0"
       },
       "text": {
-        "headline": "b2",
-        "text": "<p>Michel released b2 at Corsica powered by PHP and MySQL.</p>"
+        "headline": "Chúa ban 10 điều răn và luật pháp",
+        "text": "<p><ul><li>📍 Địa điểm: Núi Si-na-i</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/19?v=VI1934' target='_blank'>Xuất 19-20</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/matt-first-post.png",
-        "caption": "Matt's first post",
-        "credit": "<a href='https://ma.tt/2002/02/testing-new-system/'>https://ma.tt/2002/02/testing-new-system/</a>"
+        "url": "/img/b2admin.png",
+        "caption": "Con bò vàng, Môi-se liệng bể bản luật pháp",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "06",
-        "month": "02",
-        "year": "2002"
+        "month": "06",
+        "year": "0"
       },
       "text": {
-        "headline": "Matt Mullenweg's first post",
-        "text": "<p>Matt Mullenweg published his <a href='https://ma.tt/2002/02/testing-new-system/' target='_blank'>first blog post</a> with Movable Type.</p>"
+        "headline": "Con bò vàng, Môi-se liệng bể bản luật pháp",
+        "text": "<p><ul><li>📍 Địa điểm: Núi Si-na-i</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/32?v=VI1934#2' target='_blank'>Xuất 32:2-20</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/mike-first-post.png",
-        "caption": "Mike's first post",
-        "credit": "<a href='https://journalized.zed1.com/archives/2002/04/21/welcome/'>https://journalized.zed1.com/archives/2002/04/21/welcome/</a>"
+        "url": "/img/b2admin.png",
+        "caption": "Đền tạm",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "21",
-        "month": "04",
-        "year": "2002"
+        "month": "06",
+        "year": "0"
       },
       "text": {
-        "headline": "Mike Little's first post",
-        "text": "<p>A few months later, Mike Little published his first post with <strong>b2</strong></p>"
-      }
-    },
-    {
-      "start_date": {
-        "year": "2003"
-      },
-      "text": {
-        "headline": "b2's trouble",
-        "text": "<p>Michel <a href='https://zengun.org/weblog/archives/2002/05/jobless/' target='_blank'>lost his job</a> and never went back to b2.</p>"
+        "headline": "Đền tạm",
+        "text": "<p><ul><li>📍 Địa điểm: Núi Si-na-i</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/xu/40?v=VI1934#17' target='_blank'>Xuất 40:17</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "<blockquote>Matt, If you’re serious about forking b2 I would be interested in contributing. I’m sure there are one or two others in the community who would be too. Perhaps a post to the B2 forum, suggesting a fork would be a good starting point.</blockquote>",
-        "caption": "Mike responsed on the Matt's post",
-        "credit": "<a href='https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445'>https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445</a>"
+        "url": "/img/b2admin.png",
+        "caption": "Mưa chim cút",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "01",
-        "month": "04",
-        "year": "2003"
+        "month": "07",
+        "year": "0"
       },
       "text": {
-        "headline": "Matt forked b2",
-        "text": "<p>On April 1, 2003, Matt created a new branch of b2 on SourceForge.</p><p><em>Matt was not the only one who forked b2, there was many developers that forked b2 to create their own platform.</em></p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "27",
-        "month": "05",
-        "year": "2003"
-      },
-      "text": {
-        "headline": "WordPress 0.7",
-        "text": "<p>As the first official public release of WordPress.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "03",
-        "month": "01",
-        "year": "2004"
-      },
-      "text": {
-        "headline": "WordPress 1.0 (Code name: Davis)",
-        "text": "<p>Added search engine friendly permanent links, multiple categories, dead simple installation and upgrade, comment moderation, XFN support, Atom support.</p>"
+        "headline": "Mưa chim cút",
+        "text": "<p><ul><li>📍 Địa điểm: Kíp-rốt-Ha-tha-va</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/11?v=VI1934#31' target='_blank'>Dân 11:31-33</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/plugin-directory-2005.jpg",
-        "caption": "The first version of the WordPress Plugin Directory, in late 2005",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%202/11-birth-of-wp-hackers.md' target='_blank'>https://github.com/WordPress/book</a>"
+        "url": "/img/b2admin.png",
+        "caption": "Mi-ri-am và A-rôn nói hành Môi-se",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "22",
-        "month": "05",
-        "year": "2004"
+        "month": "08",
+        "year": "0"
       },
       "text": {
-        "headline": "WordPress 1.2 (Code name: Mingus)",
-        "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
+        "headline": "Mi-ri-am và A-rôn nói hành Môi-se",
+        "text": "<p><ul><li>📍 Địa điểm: Hát-sê-rốt</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/12?v=VI1934' target='_blank'>Dân 12:1-10</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/kubrick.jpg",
-        "caption": "The default theme of WordPress until 2010"
+        "url": "/img/b2admin.png",
+        "caption": "12 thám tử do thám xư Ca-na-an",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "17",
-        "month": "02",
-        "year": "2005"
+        "month": "09",
+        "year": "0"
       },
       "text": {
-        "headline": "WordPress 1.5 (Code name: Strayhorn)",
-        "text": "<p>WordPress 1.5 got its theme system.</p>"
+        "headline": "12 thám tử do thám xư Ca-na-an",
+        "text": "<p><ul><li>📍 Địa điểm: Đồng vắng Pha-ran</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/13?v=VI1934#23' target='_blank'>Dân 13:23-25</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/a-new-logo.jpg",
-        "caption": "The final logo design"
+        "url": "/img/b2admin.png",
+        "caption": "Dân sự bị dân A-ma-léc đánh bại",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
-        "day": "15",
-        "month": "05",
-        "year": "2005"
+        "month": "09",
+        "year": "0"
       },
       "text": {
-        "headline": "A new logo",
-        "text": "<p>The logo was finally decided on May 15th, when Matt sent an email to the mailing list with the subject <strong>I think this is it</strong>.</p>"
+        "headline": "Dân sự bị dân A-ma-léc đánh bại",
+        "text": "<p><ul><li>📍 Địa điểm: Đồng vắng Pha-ran</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/14?v=VI1934#40' target='_blank'>Dân 14:40-45</a></li><li>💡 Nội dung: </li></p>"
       }
     },
     {
       "media": {
-        "url": "/img/wordpress-2-0.png",
-        "caption": "WordPress 2.0 admin interface",
-        "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
+        "url": "/img/b2admin.png",
+        "caption": "Sự nổi loạn của đảng Cô-rê",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "09",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Sự nổi loạn của đảng Cô-rê",
+        "text": "<p><ul><li>📍 Địa điểm: Đồng vắng Pha-ran</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/16?v=VI1934#31' target='_blank'>Dân 16:31-33</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Môi-se đập vào hòn đá",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "09",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Môi-se đập vào hòn đá",
+        "text": "<p><ul><li>📍 Địa điểm: Đồng vắng Pha-ran</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/20?v=VI1934#10' target='_blank'>Dân 20:10-11</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "A-rôn qua đời tại núi Hô-rơ",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "10",
+        "year": "0"
+      },
+      "text": {
+        "headline": "A-rôn qua đời tại núi Hô-rơ",
+        "text": "<p><ul><li>📍 Địa điểm: Núi Hô-rơ</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/20?v=VI1934#27' target='_blank'>Dân 20:27-28</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Con rắn lửa và con rắn đồng",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "11",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Con rắn lửa và con rắn đồng",
+        "text": "<p><ul><li>📍 Địa điểm: Ô-bốt</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/21?v=VI1934#4' target='_blank'>Dân 21:4-9</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Chiến thắng dân A-mô-rít",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "12",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Chiến thắng dân A-mô-rít",
+        "text": "<p><ul><li>📍 Địa điểm: Y-giê A-ba-rim (Đồng bằng Mô-áp)</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/21?v=VI1934#21' target='_blank'>Dân 21:21-26</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Ba-lác và Ba-la-am",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "12",
+        "year": "0"
+      },
+      "text": {
+        "headline": "Ba-lác và Ba-la-am",
+        "text": "<p><ul><li>📍 Địa điểm: Đồng bằng Mô-áp</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/dan/22?v=VI1934' target='_blank'>Dân 22-25</a></li><li>💡 Nội dung: </li></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "Môi-se qua đời",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
       },
       "start_date": {
         "day": "31",
         "month": "12",
-        "year": "2005"
+        "year": "0"
       },
       "text": {
-        "headline": "WordPress 2.0 (Code name: Duke)",
-        "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wcsf_2006_sotw_matt.jpg",
-        "caption": "Matt giving his State of the Word presentation. (cc license Scott Beale (Laughing Squid))"
-      },
-      "start_date": {
-        "year": "2006"
-      },
-      "text": {
-        "headline": "The first WordCamp",
-        "text": "<p>It was WordPress San Francisco in 2006.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "22",
-        "month": "01",
-        "year": "2007"
-      },
-      "text": {
-        "headline": "WordPress 2.1 (Code name: Ella)",
-        "text": "<p>Corrected security issues, redesigned interface, enhanced editing tools (including integrated spell check and auto save), and improved content management options.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "16",
-        "month": "05",
-        "year": "2007"
-      },
-      "text": {
-        "headline": "WordPress 2.2 (Code name: Getz)",
-        "text": "<p>Introduced the Widgets.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "24",
-        "month": "12",
-        "year": "2007"
-      },
-      "text": {
-        "headline": "WordPress 2.3 (Code name: Dexter)",
-        "text": "<p>Added native tagging support, new taxonomy system for categories, and easy notification of updates, fully supports Atom 1.0, with the publishing protocol, and some much needed security fixes.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-2-5.jpg",
-        "caption": "WordPress 2.5 admin interface",
-        "credit": "<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
-      },
-      "start_date": {
-        "day": "29",
-        "month": "03",
-        "year": "2008"
-      },
-      "text": {
-        "headline": "WordPress 2.5 (Code name: Brecker)",
-        "text": "<p>It was released with a new administration UI design by Happy Cog, and introduced the dashboard widget system and the shortcode API.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "15",
-        "month": "07",
-        "year": "2008"
-      },
-      "text": {
-        "headline": "WordPress 2.6 (Code name: Tyner)",
-        "text": "<p>Added native tagging support, new taxonomy system for categories, and easy notification of updates, fully supports Atom 1.0, with the publishing protocol, and some much needed security fixes.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-2-7.png",
-        "caption": "WordPress 2.7 admin interface",
-        "credit": "<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
-      },
-      "start_date": {
-        "day": "11",
-        "month": "12",
-        "year": "2008"
-      },
-      "text": {
-        "headline": "WordPress 2.7 (Code name: Coltrane)",
-        "text": "<p>Redesigned the administration UI to improve usability and make the admin tool more customizable. Version 2.7 also introduced automatic upgrading, built-in plugin installation, sticky posts, comment threading/paging/replies and a new API, bulk management, and inline documentation.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "10",
-        "month": "06",
-        "year": "2009"
-      },
-      "text": {
-        "headline": "WordPress 2.8 (Code name: Dexter)",
-        "text": "<p>Added improvements in speed, automatic installing of themes from within administration interface, introduces the CodePress editor for syntax highlighting and a redesigned widget interface.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "19",
-        "month": "12",
-        "year": "2009"
-      },
-      "text": {
-        "headline": "WordPress 2.9 (Code name: Carmen)",
-        "text": "<p>Added global undo, built-in image editor, batch plugin updating, and many less visible tweaks.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/2010.jpg",
-        "caption": "Twenty Ten",
-        "credit": "<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
-      },
-      "start_date": {
-        "day": "17",
-        "month": "06",
-        "year": "2010"
-      },
-      "text": {
-        "headline": "WordPress 3.0 (Code name: Thelonious)",
-        "text": "<p>It introduced custom post types, made custom taxonomies simpler, added custom menu management, added new API's for custom headers and custom backgrounds, introduced a new default theme called <strong>Twenty Ten</strong> (which started the tradition of a new default theme for each year) and allowed the management of multiple sites (called MultiSite).</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "23",
-        "month": "02",
-        "year": "2011"
-      },
-      "text": {
-        "headline": "WordPress 3.1 (Code name: Reinhardt)",
-        "text": "<p>Added the Admin Bar, which is displayed on all blog pages when an admin is logged in, and Post Format, best explained as a Tumblr like micro-blogging feature. It provides easy access to many critical functions, such as comments and updates. Includes internal linking abilities, a newly streamlined writing interface, and many other changes.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "04",
-        "month": "07",
-        "year": "2011"
-      },
-      "text": {
-        "headline": "WordPress 3.2 (Code name: Gershwin)",
-        "text": "<p>Focused on making WordPress faster and lighter. Released only four months after version 3.1, reflecting the growing speed of development in the WordPress community.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "12",
-        "month": "12",
-        "year": "2011"
-      },
-      "text": {
-        "headline": "WordPress 3.3 (Code name: Sonny)",
-        "text": "<p>Focused on making WordPress friendlier for beginners and tablet computer users.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "13",
-        "month": "06",
-        "year": "2012"
-      },
-      "text": {
-        "headline": "WordPress 3.4 (Code name: Green)",
-        "text": "<p>Focused on improvements to theme customization, Twitter integration and several minor changes.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/2012.png",
-        "caption": "Twenty Twelve",
-        "credit": "<a href='https://wordpress.org/themes/twentytwelve/' target='_blank'>Wordpress Themes</a>"
-      },
-      "start_date": {
-        "day": "11",
-        "month": "12",
-        "year": "2012"
-      },
-      "text": {
-        "headline": "WordPress 3.5 (Code name: Elvin)",
-        "text": "<p>Support for the Retina Display, color picker, new default theme <strong>Twenty Twelve</strong>, improved image workflow.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/2013.png",
-        "caption": "Twenty Thirteen",
-        "credit": "<a href='https://wordpress.org/news/2013/08/oscar/' target='_blank'>Wordpress Blog</a>"
-      },
-      "start_date": {
-        "day": "01",
-        "month": "08",
-        "year": "2013"
-      },
-      "text": {
-        "headline": "WordPress 3.6 (Code name: Oscar)",
-        "text": "<p>New default theme <strong>Twenty Thirteen</strong>, admin enhancements, post formats UI update, menus UI improvements, new revision system, auto save and post locking.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "24",
-        "month": "10",
-        "year": "2013"
-      },
-      "text": {
-        "headline": "WordPress 3.7 (Code name: Basie)",
-        "text": "<p>Automatically apply maintenance and security updates in the background, stronger password recommendations, support for automatically installing the right language files and keeping them up to date.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-3-8.jpg",
-        "caption": "New design",
-        "credit": "<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "12",
-        "year": "2013"
-      },
-      "text": {
-        "headline": "WordPress 3.8 (Code name: Parker)<br />Introduced a modern new design",
-        "text": "<p>WordPress has gotten a facelift. 3.8 brings a fresh new look to the entire admin dashboard. Gone are overbearing gradients and dozens of shades of grey — bring on a bigger, bolder, more colorful design!</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordcamp-hanoi-2014.png",
-        "caption": "WordCamp Hanoi 2014"
-      },
-      "start_date": {
-        "year": "2014"
-      },
-      "text": {
-        "headline": "WordCamp Hanoi 2014",
-        "text": "<p>The First WordCamp in Vietnam</p><p><em>It was the special event that marked the growth up of Vietnamese WordPress Community. So I decided to put it in this timeline.</em></p>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/bUdzKMro/wordpress-4-0_hd.mp4"
-      },
-      "start_date": {
-        "day": "04",
-        "month": "09",
-        "year": "2014"
-      },
-      "text": {
-        "headline": "WordPress 4.0",
-        "text": "<ol><li>Media Library (Explore your uploads in a beautiful, endless grid)</li><li>Embeds improvements (embedding has become a visual experience.)</li><li>Improved Plugin Installation (new metrics, improved search, and a more visual browsing experience.)</ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://i2.wp.com/wordpress.org/news/files/2014/12/2015-laptop.png?resize=1024%2C533&ssl=1"
-      },
-      "start_date": {
-        "day": "18",
-        "month": "12",
-        "year": "2014"
-      },
-      "text": {
-        "headline": "WordPress 4.1",
-        "text": "<ol><li>Twenty Fifteen Theme released</li><li>Distraction-free writing</li><li>Choose a language (You can switch to any translation on the General Settings screen.)</li><li>Log out everywhere</li><li>Vine embeds (Embedding videos from Vine)</li><li>Plugin recommendations (The plugin installer suggests plugins for you to try)</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/e9kH4FzP/wordpress-4-2_hd.mp4"
-      },
-      "start_date": {
-        "day": "23",
-        "month": "04",
-        "year": "2015"
-      },
-      "text": {
-        "headline": "WordPress 4.2",
-        "text": "<ol><li>share content easier (Improved Press This plugin)</li><li>Extended character support (Including native Chinese, Japanese, and Korean characters, musical and mathematical symbols, hieroglyphs and emoji support.</li><li>Streamlined plugin updates</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/T54Iy7Tw/video-7601c95191_dvd.mp4"
-      },
-      "start_date": {
-        "day": "18",
-        "month": "08",
-        "year": "2015"
-      },
-      "text": {
-        "headline": "WordPress 4.3",
-        "text": "<ol><li>Menus in the Customizer</li><li>Formatting Shortcuts</li><li>Site Icons</li><li>Better Passwords</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/J44FHXvg/video-0e8f70a936_dvd.mp4"
-      },
-      "start_date": {
-        "day": "08",
-        "month": "12",
-        "year": "2015"
-      },
-      "text": {
-        "headline": "WordPress 4.4",
-        "text": "<ol><li>Twenty Sixteen Theme released</li><li>Responsive Images (WordPress now takes a smarter approach to displaying appropriate image sizes on any device)</li><li>Embeds Feature (Now you can embed your posts on other WordPress sites)</li><li>REST API infrastructure</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/scFdjVo6/video-604c4abe08_dvd.mp4"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "04",
-        "year": "2016"
-      },
-      "text": {
-        "headline": "WordPress 4.5",
-        "text": "<ol><li>Editor Improvements</li><li>Live Responsive Previews(View mobile, tablet, and desktop previews in customizer)</li><li>Custom Logos(Themes can now support logos for your business or brand)</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/GbdhpGF3/video-25313e7f01_hd.mp4"
-      },
-      "start_date": {
-        "day": "16",
-        "month": "08",
-        "year": "2016"
-      },
-      "text": {
-        "headline": "WordPress 4.6",
-        "text": "<ol><li>Streamlined Updates</li><li>Native Fonts</li><li>Editor Improvements</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/AHz0Ca46/wp4-7-vaughan-r8-mastered_hd.mp4"
-      },
-      "start_date": {
-        "day": "06",
-        "month": "12",
-        "year": "2016"
-      },
-      "text": {
-        "headline": "WordPress 4.7",
-        "text": "<ol><li>REST API</li><li>Post Type Templates</li><li>Customizer Improvements</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/graphusers.png"
-      },
-      "start_date": {
-        "month": "02",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "Stats: 58.7%",
-        "text": "<p>58.7% of all the websites whose content management systems are known run WordPress</p><p>This is over 27% of the top 10 million websites.</p><p>Source: https://w3techs.com/technologies/overview/content_management/all/</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://codex.wordpress.org/images/thumb/8/8f/widgets-with-all-four.png/800px-widgets-with-all-four.png"
-      },
-      "start_date": {
-        "day": "08",
-        "month": "06",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "WordPress 4.8",
-        "text": "<ol><li>Dream widgets have been added: Image, video, audio, rich text.</li><li>Nearby WordPress Events</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://codex.wordpress.org/images/b/b6/customizer4_9-schedule.jpg"
-      },
-      "start_date": {
-        "day": "15",
-        "month": "11",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "WordPress 4.9",
-        "text": "<ol><li>Draft and Schedule Site Design Customizations</li><li>The New Gallery Widget</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif",
-        "caption": "WordPress 5.0 with Gutenberg - the new block editor",
-        "credit": "<a href='https://make.wordpress.org/core/5-0/' target='_blank'>https://make.wordpress.org/core/5-0/</a>"
-      },
-      "start_date": {
-        "day": "6",
-        "month": "12",
-        "year": "2018"
-      },
-      "text": {
-        "headline": "WordPress 5.0 (Code name: Bebo)",
-        "text": "<p>It is a major release of 2018, including the new block editor, and the Twenty Nineteen theme.</p><ol><li>Gutenberg - new block editor</li><li>Twenty Nineteen theme</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://kinsta.com/wp-content/uploads/2019/03/wordpress-5-1-update-new-1.png",
-        "caption": "WordPress 5.1 - Moving PHP Forward",
-        "credit": "<a href='https://kinsta.com/blog/wordpress-5-1/' target='_blank'>https://kinsta.com/blog/wordpress-5-1/</a>"
-      },
-      "start_date": {
-        "day": "21",
-        "month": "02",
-        "year": "2019"
-      },
-      "text": {
-        "headline": "WordPress 5.1 (Code name: Betty)",
-        "text": "<p>It focuses on polish, in particular by improving the overall performance of the editor. In addition, this release paves the way for a better, faster, and more secure WordPress with some essential tools for site administrators and developers.</p><ol><li>PHP version upgrade notices.</li><li>Improvements in the block editor.</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://cdn.wpbeginner.com/wp-content/uploads/2019/08/perfect-score.png",
-        "caption": "Getting a perfect score in WordPress site health",
-        "credit": "<a href='https://www.wpbeginner.com/beginners-guide/tips-to-get-a-100-in-wordpress-site-health-check-score/'>https://www.wpbeginner.com/beginners-guide/tips-to-get-a-100-in-wordpress-site-health-check-score/</a>"
-      },
-      "start_date": {
-        "day": "07",
-        "month": "05",
-        "year": "2019"
-      },
-      "text": {
-        "headline": "WordPress 5.2 (Code name: Jaco)",
-        "text": "<p>New features in this update make it easier than ever to fix your site if something goes wrong. There are even more robust tools for identifying and fixing configuration issues and fatal errors. Whether you are a developer helping clients or you manage your site solo, these tools can help get you the right information when you need it.</p><ol><li>Include site health check.</li><li>PHP error protection.</li><li>Accessibility updates.</li><li>New dashboard icons.</li><li>Plugin compatibility checks.</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://i1.wp.com/wordpress.org/news/files/2019/11/5.3-album-cover.png",
-        "caption": "WordPress 5.3 - New Blocks, New APIs, Improved Admin UI",
-        "credit": "<a href='https://wordpress.org/news/2019/11/kirk/' target='_blank'>https://wordpress.org/news/2019/11/kirk//</a>"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "11",
-        "year": "2019"
-      },
-      "text": {
-        "headline": "WordPress 5.3 (Code name: Kirk)",
-        "text": "<p><a href='https://wordpress.org/news/2019/11/kirk/' target='_blank'>WordPress 5.3</a> is the final major release of 2019. It aims to polish current interactions and make the UIs more user friendly.</p><ol><li>Block Editor Improvements</li><li>Expanded Design Flexibility</li><li>Automatic Image Rotation</li><li>Improved Site Health Checks</li><li>Admin Email Verification</li><li>Twenty Twenty theme</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "./img/wpholiday-wordpress-desktop-2880x1800.jpg"
-      },
-      "start_date": {
-        "month": "01",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "Summary",
-        "text": "<ol><li>Start with passion.</li><li>Responsibility and vision: GPL and Automattic</li><li>Focus on simplicity for users who do not know much about technology.</li><li>Developed regularly and actively.</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://i0.wp.com/wordpress.org/news/files/2020/08/Billy_duotone-1000px_quiche-sans-top.png?w=1000&ssl=1",
-        "caption": "In WordPress 5.5, your site gets new power in three major areas: speed, search, and security.",
-        "credit": "<a href='https://wordpress.org/news/2020/08/eckstine/'>https://wordpress.org/news/2020/08/eckstine/</a>"
-      },
-      "start_date": {
-        "day": "11",
-        "month": "08",
-        "year": "2020"
-      },
-      "text": {
-        "headline": "WordPress 5.5 “Eckstine”",
-        "text": "<ol><li>Posts and pages feel faster, thanks to lazy-loaded images.</li><li>Say hello to your new sitemap.</li><li>Auto-updates for Plugins and Themes.</li><li><a href='https://wordpress.org/news/2020/08/eckstine/' target='_blank'>Check more</a></li></ol>"
+        "headline": "Môi-se qua đời",
+        "text": "<p><ul><li>📍 Địa điểm: Núi Nê-bô</li><li>📖 Kinh Thánh: <a href='https://kinhthanh.httlvn.org/doc-kinh-thanh/phu/34?v=VI1934' target='_blank'>Phục 34:1-5</a></li><li>💡 Nội dung: </li></p>"
       }
     }
   ]

@@ -1,3 +1,21 @@
+body .tl-timeline h1,
+body .tl-timeline h2,
+body .tl-timeline h3,
+body .tl-timeline h4,
+body .tl-timeline h5,
+body .tl-timeline h6,
+body .tl-timeline p,
+body .tl-timeline ul,
+body .tl-timeline .tl-caption,
+body .tl-timeline .tl-credit,
+body .tl-timeline .tl-timenav-slider h2.tl-headline,
+body .tl-timeline .tl-slidenav-next,
+body .tl-timeline .tl-slidenav-previous,
+body .tl-timeline .tl-message,
+body .tl-timeline .tl-timegroup-message {
+  font-family: "Inter", sans-serif;
+}
+
 .tl-timeline p a {
   color: #02b875;
   text-decoration: none;
@@ -11,7 +29,8 @@
   color: #02b875;
 }
 
-.tl-text h2.tl-headline, .tl-text h2.tl-headline-title {
+.tl-text h2.tl-headline,
+.tl-text h2.tl-headline-title {
   margin-bottom: 15px;
 }
 
@@ -23,4 +42,19 @@
 
 .tl-media-content img {
   border-radius: 15px;
+}
+
+.tl-text-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tl-timeline .tl-text ul {
+  padding: 0;
+}
+
+.tl-slidenav-description,
+.tl-headline-date,
+.tl-timeaxis .tl-timeaxis-content-container {
+  display: none;
 }
